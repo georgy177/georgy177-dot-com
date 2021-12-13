@@ -150,7 +150,6 @@ var typed2 = new Typed("#wisdom", {
     "When the glacet water comes over , then you know you are not the one.",
     "No more food drink nature",
     "LV - LS",
-    ""
   ],
   typeSpeed: 40,
   backSpeed: 5,
