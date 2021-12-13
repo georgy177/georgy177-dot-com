@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.pathetic {
+  margin: 0 10% 0 10%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgb(239, 239, 241);
+}
+
+body {
+  background-color: rgb(24, 24, 27);
+  font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 2em;
+}
+
+#wisdom {
+  color: rgb(239, 239, 241);
+  display: inline;
+}
+
+.georgy {
+  color: rgb(95, 158, 160);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.georgy::before {
+  background-image: url('pathetic.svg');
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 2em;
+  height: 1em;
+  content:"";
+  margin-right: 5px;
+  vertical-align: middle;
+}
