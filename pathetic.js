@@ -283,6 +283,7 @@ var typed2 = new Typed("#wisdom", {
     "Can I have a walk to bow down.",
     "No we will fix it for you.",
     "Who is there for you if little teams can not be ready. The job.",
+    "What do you want. This is a stream.",
   ],
   typeSpeed: 40,
   backSpeed: 5,
