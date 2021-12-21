@@ -296,6 +296,7 @@ var typed2 = new Typed("#wisdom", {
     "why",
     "stop",
     "Look I do not even know who is who what the crowd is. My experience on the internet is a breadtaste of living the ride out of not pressing forward.",
+    "If your nuts in the head play a tennis match.",
   ],
   typeSpeed: 40,
   backSpeed: 5,
