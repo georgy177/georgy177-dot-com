@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/georgle/:path*",
-      "destination": "https://georgle.vercel.app/:path*"
+      "destination": "https://georgle.vercel.app/georgle/:path*"
     }
   ]
 }
