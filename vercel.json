@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/georgle/:path*",
+      "destination": "https://georgle.vercel.app/:path*"
+    }
+  ]
+}
